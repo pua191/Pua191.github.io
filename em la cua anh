@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>blog / em la ai - KhangAPuaChapter</title>
+  <style>
+    body { background-color: #0d0d0d; color: #fff; font-family: sans-serif; padding: 20px; }
+    .content { max-width: 600px; margin: 0 auto; line-height: 1.6; }
+    .btn-back { color: #888; text-decoration: none; display: inline-block; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <div class="content">
+    <a href="index.html" class="btn-back">← Quay lại trang chủ</a>
+    <h1>blog / em la ai</h1>
+    <p>Xin chào em ❤️
+
+Uầy, vậy mà mình quen nhau cũng được 5 tháng rồi đấy. Nghĩ lại anh vẫn chẳng nhớ rõ “cơn gió” nào đã đưa em đến bên anh, cũng chẳng nhớ chính xác mình bắt đầu từ khi nào. Anh chỉ nhớ một hôm đẹp trời, anh vô tình lướt Facebook, thấy story của em rồi tiện tay rep một câu. Anh cũng chẳng nghĩ nhiều, càng không nghĩ rằng một lời nhắn vu vơ như thế lại có thể mở đầu cho một câu chuyện dài đến tận hôm nay.
+
+Từ hai người xa lạ, mình dần biết nhau hơn, rồi có những ngày nói chuyện đến quên cả thời gian. Tất nhiên, chẳng phải lúc nào mọi thứ cũng vui. Mình từng hiểu lầm, từng giận nhau, từng có những lúc tưởng như chẳng còn cơ hội để tiếp tục nhắn tin với nhau nữa. Nhưng cuối cùng, sau tất cả, mình vẫn ở đây, vẫn nói chuyện, vẫn quan tâm và vẫn dành cho nhau một vị trí nào đó trong cuộc sống.
+
+Có lẽ tình yêu không phải lúc nào cũng là những ngày thật đẹp. Đôi khi nó còn là cách hai người học cách hiểu nhau, bao dung cho nhau và cùng nhau bước qua những điều không vui. Anh không biết tương lai mình sẽ đi được bao xa, nhưng anh biết hiện tại anh trân trọng những gì mình đang có. Cảm ơn em vì đã xuất hiện, và cảm ơn vì sau 5 tháng, người anh đang nhắn tin vẫn là em. ❤️</p>
+  </div>
+</body>
+</html>
